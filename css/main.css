@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://media.giphy.com/media/Q1ntNGrg0BnW/giphy.gif");}
+
+h1 {
+  font-family: Comic Sans MS;
+color: purple;
+  font-size: 60px;}
+ul { list-style-type: none; 
+  margin: 0; 
+  padding: 0; 
+  overflow: hidden; 
+  background-color: #FEB4FF; } 
+li { float: left; } 
+li a { display: block; 
+  color: magenta; 
+  text-align: center; 
+  padding: 14px 16px; 
+  text-decoration: none; } 
+a:hover:not(.active)
+{ background-color: purple; } .active 
+{ background-color:#FF009E; } 
+ul { font-family: Comic Sans MS ;
+    border-style: solid;
+  border-width: 2px;
+  border-color: purple;
+font-size: 30px;}
