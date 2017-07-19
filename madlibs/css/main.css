@@ -1,0 +1,11 @@
+center {
+  font-size: 60px ;
+  background: #69A5A4;
+  border-style: solid;
+  border-color: black;
+  color: white;
+}
+body {
+  background: #DBFFFE;
+  text-align: center;
+}
