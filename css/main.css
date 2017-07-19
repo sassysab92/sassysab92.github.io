@@ -24,3 +24,21 @@ ul { font-family: Comic Sans MS ;
   border-width: 2px;
   border-color: purple;
 font-size: 30px;}
+h3 {
+font-family: Comic Sans MS;
+color: #FFDC00;}
+p {
+  font-family:Comic Sans MS;
+  color: black;
+  font-size: 20px;
+}
+h2 {
+  font-family: comic sans ms;
+  color: aqua;
+}
+img {
+  border-style: solid;
+}
+figcaption {
+  font-family: comic sans ms;
+}
