@@ -1,0 +1,45 @@
+h1 {font-family: 'Bellefair', serif;
+  font-size: 50px;
+color: #696969;}
+body {background-color: #DEDEDE;}
+header {
+    float: left;
+    margin:0 0 30px 0;
+    padding: 5px 0 0 0 ;
+    width: 100%;
+  background-image:url('http://www.marbleoftheworld.com/media/wysiwyg/template/content-quote-marble.jpg');
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #B5B5B5;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #7D3F3F;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  font-family: 'PT Serif', serif;
+  font-size: 20px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #D7D7D7;
+}
+h2 {font-family: 'Bellefair', serif;
+  color: #696969;
+  font-size: 30px;}
+img {border-style: solid;
+border-color: #696969;}
+p {font-family: 'Bellefair', serif;
+  font-size: 20px;
+  color: #7D3F3F;
